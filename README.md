@@ -12,7 +12,7 @@ Aspiring Data Scientist with expertise in machine learning, data analysis, and P
 - Achieved 83.29% accuracy with hyperparameter tuning
 - **[📁 View Full Project](https://github.com/mtayyab32155/Titanic-Survival-Prediction)** | **[📓 Open Notebook](https://github.com/mtayyab32155/Titanic-Survival-Prediction/blob/main/titanic.ipynb)**
 
-### 🔬 [Pioneer Project](https://github.com/mtayyab32155/pioneer)
+### 🔬 [Netflix Films Data Analysis](https://github.com/mtayyab32155/pioneer)
 - Brief description of your Pioneer project
 - Technologies used
 - Key achievements
