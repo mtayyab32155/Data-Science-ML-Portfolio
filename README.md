@@ -31,7 +31,7 @@ Aspiring Data Scientist with expertise in machine learning, data analysis, and P
 
 ## 📁 Repository Structure
 - **[Titanic Survival Prediction](https://github.com/mtayyab32155/Titanic-Survival-Prediction)** - ML project with 83.29% accuracy
-- **[Pioneer Project](https://github.com/mtayyab32155/pioneer)** - [Add brief description]
+- **[Netflix Films Data Analysis](https://github.com/mtayyab32155/pioneer)** - Exploratory data analysis (EDA) on a dataset containing 9000+ movies
 - **[Data Science Portfolio](https://github.com/mtayyab32155/Data-Science-Portfolio)** - This portfolio page
 
 ---
@@ -40,4 +40,4 @@ Aspiring Data Scientist with expertise in machine learning, data analysis, and P
 | Project | Description | Direct Link |
 |---------|-------------|-------------|
 | Titanic Survival | ML pipeline with 83.29% accuracy | [Open Project](https://github.com/mtayyab32155/Titanic-Survival-Prediction) |
-| Netflix Films Data Analysis] | [Add brief description] | [Open Project](https://github.com/mtayyab32155/pioneer) |
+| Netflix Films Data Analysis | Exploratory data analysis (EDA) on a dataset containing 9000+ movies | [Open Project](https://github.com/mtayyab32155/pioneer) |
