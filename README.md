@@ -40,4 +40,4 @@ Aspiring Data Scientist with expertise in machine learning, data analysis, and P
 | Project | Description | Direct Link |
 |---------|-------------|-------------|
 | Titanic Survival | ML pipeline with 83.29% accuracy | [Open Project](https://github.com/mtayyab32155/Titanic-Survival-Prediction) |
-| Pioneer Project | [Add brief description] | [Open Project](https://github.com/mtayyab32155/pioneer) |
+| Netflix Films Data Analysis] | [Add brief description] | [Open Project](https://github.com/mtayyab32155/pioneer) |
